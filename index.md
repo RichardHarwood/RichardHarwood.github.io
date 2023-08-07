@@ -8,13 +8,16 @@ title: ""
 <br />
 <br />
 <img  src="newphytcover.jpg" width="200" style="float:left; padding-right:15px" />Here is example of  3D imaging from my PhD. The image is 3D reconstruction of a chickpea mesophyll cell (cell wall, white; mitochondria, red; chloroplasts, green) from my PhD paper. 
+<br clear="left"/>
 <br />
 <br />
 
 <video  src="sbfsem-gif.mp4" controls="controls" width="300" style="float:left; padding-right:15px" /> This video shows how raw erial bock face scanning electron microspoy data can be converted into a 3D model.
+<br clear="left"/>
 <br />
 
 <img  src="ASNTO_2024_Figure.png" width="300" style="float:left; padding-right:15px" />Here is example of 3D imaging from my current postdoc. The image is 3D reconstruction of a wheat root in soil (root, grey; ; pore network adjacent to the root, blue) from my PhD paper. These images were acquired using micro-computed-tomography from my collobrartion with the Australia's Nuclear Science and Technology Organisation  
+<br clear="left"/>
 
 
 
