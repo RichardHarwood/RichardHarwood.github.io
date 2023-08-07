@@ -27,22 +27,5 @@ My research and professional experience has resulted in expertise in: <br />
 
 I can always be reached at richardwilliamharwood@gmail.com and welcome collaborations. 
 
-A list of my publications and citation metrics can be found on my 
-<a href="https://scholar.google.com.au/citations?user=ca2u0TMAAAAJ&hl=en"> google scholar </a> 
-<br />
-Here I will expand on that list and briefly summarise my research:
-<br />
-
-<img  src="img/TIPS_JPG.jpg" width="200" style="float:left; padding-right:15px" /> <a href="https://www.sciencedirect.com/science/article/pii/S1360138518302103"> Embracing 3D Complexity in Leaf Carbon–Water Exchange </a> <br />
-My first ever paper! In this opinion piece I contributed a 3D reconstruction of a wheat mesophyll cell and contributed to the discussion on considering 3D anatomy when trying to better understand mesophyll conductance.  
-<br clear="left"/>
-<br />
-<img  src="img/newphyt_fig_JPG.jpg" width="200" style="float:left; padding-right:15px" /> <a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16219"> Cell and chloroplast anatomical features are poorly estimated from 2D cross-sections </a> <br />
-My first ever lead author paper! Here we produced a large amount of cell and chloroplast 3D models and compared the 
-<br clear="left"/>
-<br />
-
-
-
 
 
