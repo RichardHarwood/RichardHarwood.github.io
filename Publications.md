@@ -15,19 +15,19 @@ My first ever paper! In this opinion piece I contributed a 3D reconstruction of 
 <br clear="left"/>
 <br />
 <img  src="/img/newphyt_fig_JPG.jpg" width="200" style="float:left; padding-right:15px" /> <a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16219"> Cell and chloroplast anatomical features are poorly estimated from 2D cross-sections </a> <br />
-My first ever lead author paper! Here we produced a large amount of cell and chloroplast 3D models and compared the 
+My first ever lead author paper! Here we produced a large amount of cell and chloroplast 3D models and compared the results to established methods used to infer 3D surface area and volume from 2D cross sections. We showed that 2D models often perform poorly and discuss the benefits of moving towards a 3D based approach.    
 <br clear="left"/>
 <br />
 
 <br />
 <img  src="/img/WTC.jpg" width="200" style="float:left; padding-right:15px" /> <a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16733"> No evidence of homeostatic regulation of leaf temperature in Eucalyptus parramattensis trees: integration of CO2 flux and oxygen isotope methodologies </a> <br />
-An awesome collaboration with Western Sydney University using whole tree chambers!. Here I measured the oxygen isotopes of whole tree chambers and the surrounding atmosphere for 80+ days. Using regular measurements of trunk diameter I was able to isolate trunk cellulose from specific growth periods. The oxygen isotope ratios of the cellulose was measured and compared to online measurements of leaf temperature to test the accuracy of cellulose as a record of ambient temperature and relative humidity during periods of carbon assimilation. 
+An awesome collaboration with Western Sydney University using whole tree chambers! Here I measured the oxygen isotopes of whole tree chambers and the surrounding atmosphere for 80+ days. Using regular measurements of trunk diameter, I was able to isolate trunk cellulose from specific growth periods. The oxygen isotope ratios of the cellulose was measured and compared to online measurements of leaf temperature to test the accuracy of cellulose as a record of ambient temperature and relative humidity during periods of carbon assimilation. 
 <br clear="left"/>
 <br />
 
 <br />
 <img  src="/img/PCE.png" width="200" style="float:left; padding-right:15px" /> <a href="https://onlinelibrary.wiley.com/doi/10.1111/pce.14079"> Understanding airspace in leaves: 3D anatomy and directional tortuosity </a> <br />
-An awesome collaboration with Guillaume Théroux-Rancourt! Here we used 13C to estimate mesophyll conductance and SBF-SEM to capture cell and airspace properties of 4 different eucalyptus species. This paper was about quantifying the airspace and relating imaging to experimental data and shows that when the airspace in leaves is heterogeneous previous assumptions fail.  
+An awesome collaboration with Guillaume Théroux-Rancourt! Here we used carbon isotopes to estimate mesophyll conductance and SBF-SEM to capture cell and airspace properties of 4 different eucalyptus species. This paper was about quantifying the airspace and relating imaging to experimental data. We showed that when the airspace in leaves is heterogeneous previous assumptions fail.  
 <br clear="left"/>
 <br />
 
