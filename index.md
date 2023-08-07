@@ -14,18 +14,18 @@ title: ""
 <img  src="ANSTO_2024_Figure.png" width="300" style="float:right; padding-left:15px" />Here is example of 3D imaging from my current postdoc. The image is 3D reconstruction of a wheat root in soil (root, grey; ; pore network adjacent to the root, blue) from my PhD paper. These images were acquired using micro-computed-tomography from my collobrartion with the Australia's Nuclear Science and Technology Organisation  
 <br clear="right"/>
 
-My research and professional experience has resulted in expertise in: 
-Stable isotopes and gas ecxchnage <br />
-Data Science (Python and R) <br />
-Bioimage analysis and visualization <br />
-3D modelling techniques (e.g. finite element analysis) <br />
-Virtual Reality Development  <br />
-Scientfic outreach  <br />
-Teaching  <br />
-Publishing in high impact journals  <br />
-Presenting at internation conferences  <br />
+My research and professional experience has resulted in expertise in: <br />
+* Stable isotopes and gas ecxchnage <br />
+* Data Science (Python and R) <br />
+* Bioimage analysis and visualization <br />
+* 3D modelling techniques (e.g. finite element analysis) <br />
+* Virtual Reality Development  <br />
+* Scientfic outreach  <br />
+* Teaching  <br />
+* Publishing in high impact journals  <br />
+* Presenting at international conferences  <br />
 
-I can always be reached at richardwilliamharwood@gmail.com and welcome collaborations 
+I can always be reached at richardwilliamharwood@gmail.com and welcome collaborations. 
 
 
 
