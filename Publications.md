@@ -8,7 +8,7 @@ A list of my publications adn citation metrics can be found on my
 Here I will expand on that list and briefly summarise my research:
 <br />
 
-<img  src="TIPS.PNG" width="200" style="float:left; padding-right:15px" /> <a href="https://www.sciencedirect.com/science/article/pii/S1360138518302103"> Embracing 3D Complexity in Leaf Carbon–Water Exchange </a> <br />
+<img  src="newphytcover.jpg" width="200" style="float:left; padding-right:15px" /> <a href="https://www.sciencedirect.com/science/article/pii/S1360138518302103"> Embracing 3D Complexity in Leaf Carbon–Water Exchange </a> <br />
 My first ever paper! In this opinion piece I contributed a 3D reconstruction of a wheat mesophyll cell and contributed to the discussion on considering 3D anatomy when trying to better understand mesophyll conductance.  
 <br clear="left"/>
 <br />
