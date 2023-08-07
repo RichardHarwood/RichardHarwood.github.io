@@ -44,5 +44,13 @@ In this project I developed a bespoke image analysis pipeline to analyze Vegfc t
 <br clear="left"/>
 <br />
 
+# Scientific Outreach Papers 
+<br />
+<img  src="/img/3D-reconstruction-of-a-chickpea-stomata.jpg" width="200" style="float:left; padding-right:15px" /> <a href="https://futurumcareers.com/3d-images-of-leaves-a-photo-shoot-we-should-all-be-looking-at"> 3D images of leaves: a photo shoot we should all be looking at </a> <br />
+An outreach article with Margaret Barbour that uses our 3D imaging data to inspire students to get into plant science and combat “plant blindness”. For this article I created a 3D model of chickpea leaf that could be 3D printed!
+<br clear="left"/>
+<br />
+
+
 
 
