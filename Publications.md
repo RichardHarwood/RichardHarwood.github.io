@@ -13,7 +13,7 @@ My first ever paper! In this opinion piece I contributed a 3D reconstruction of 
 <br clear="left"/>
 <br />
 
-<img  src="newphy_fig.PNG" width="200" style="float:left; padding-right:15px" /> <a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16219"> Cell and chloroplast anatomical features are poorly estimated from 2D cross-sections </a> <br />
+<img  src="newphyt_fig.PNG" width="200" style="float:left; padding-right:15px" /> <a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16219"> Cell and chloroplast anatomical features are poorly estimated from 2D cross-sections </a> <br />
 My first ever lead author paper! Here we produced a large amount of cell and chloroplast 3D models and compared the 
 <br clear="left"/>
 <br />
