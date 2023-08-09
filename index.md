@@ -2,14 +2,15 @@
 layout: page
 title: ""
 ---
-
-<img align="centre" src="richardharwood.png" width="250" >
+<p align="center">
+<img  width="250"  src="richardharwood.png">
+</p> 
 <p align="center">
 I am a postdoctoral researcher exploring the plant-soil interface. To better understand biology, I combine experimental and imaging data to explore form-function relationships. My PhD research focused on understanding 3D leaf anatomy and integrating the complex arrangement of leaf tissue with gas exchange and stable isotope datasets. Exploring the links between physiology and anatomy enhances our ability to trace CO<sub>2</sub> and water exchange and better understand key leaf processes such as stomatal conductance, mesophyll conductance, hydraulic conductance, and photosynthesis. An improved understanding of these processes further our understanding of the water and carbon cycles and how these cycles will be influenced by climate change.
 </p>
 <br clear="centre"/>
 
-<img align="center" src="newphytcover.jpg" width="250" >
+<img align="right" src="newphytcover.jpg" width="250" >
 <p align="center">
 Here is an example of 3D imaging from my PhD. The image is a 3D reconstruction of a chickpea mesophyll cell (cell wall, white; mitochondria, red; chloroplasts, green) from my PhD paper. 
 </p>
