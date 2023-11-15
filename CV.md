@@ -1,10 +1,9 @@
 ---
 layout: page
-title: "CV"
 ---
 ### Education:
-Bachelor of Environmental Systems (Hons1) – University Of Sydney <br>
-PhD – University Of Sydney 
+##### Bachelor of Environmental Systems (Hons1) – University Of Sydney <br>
+##### PhD – University Of Sydney 
 
 ### Work Expirence 
 ##### Postdoctoral Researcher (Sydney University, 2022-Current) <br>
