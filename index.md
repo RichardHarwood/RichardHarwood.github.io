@@ -16,16 +16,14 @@ Here is an example of 3D imaging from my current postdoc. The image is a 3D reco
 <br clear="right"/>
 <br />
 My research and professional experience have led to following skillsets: <br />
-* Stable isotopes and gas exchange <br />
 * Data Science (Python and R) <br />
 * Bioimage analysis and visualization <br />
+* Computer vision
+* Stable isotopes and gas exchange <br />
 * 3D modelling techniques (e.g. finite element analysis) <br />
-* Building national and international collaboration networks <br />
 * Virtual Reality Development  <br />
 * Scientific outreach  <br />
 * Teaching <br />
-* Publishing in high impact journals  <br />
-* Presenting at international conferences  <br />
 <br />
 
 I can always be reached at richardwilliamharwood@gmail.com and welcome collaborations. 
