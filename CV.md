@@ -1,6 +1,3 @@
----
-layout: page
----
 
 ## Education:
 Bachelor of Environmental Systems (Hons1) – University Of Sydney <br>
