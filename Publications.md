@@ -1,6 +1,6 @@
 ---
 layout: page
-#title: "Publications"
+title: "Publications"
 ---
 A list of my publications and citation metrics can be found on my 
 <a href="https://scholar.google.com.au/citations?user=ca2u0TMAAAAJ&hl=en"> google scholar </a> 
