@@ -12,7 +12,7 @@ Here is an example of 3D imaging from my PhD. The image is a 3D reconstruction o
 <br />
 
 <img  src="ANSTO_2024_Figure.png"  width="300" style="display:block; margin-left:auto; margin-right:auto" />
-Here is an example of 3D imaging from my current postdoc. The image is a 3D reconstruction of a wheat root in soil (root, grey; pore network adjacent to the root, blue). These images were acquired using micro-computed-tomography from my collaboration with the Australia's Nuclear Science and Technology Organization  
+Here is an example of 3D imaging from my current postdoc. The image is a 3D reconstruction of a wheat root in soil (root, grey; pore network adjacent to the root, blue). These images were acquired using micro-computed-tomography from my collaboration with the Australian Nuclear Science and Technology Organization  
 <br clear="right"/>
 <br />
 My research and professional experience have led to following skillsets: <br />
