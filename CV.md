@@ -3,7 +3,7 @@
 ##### Bachelor of Environmental Systems (Hons1) – University Of Sydney <br>
 ##### PhD – University Of Sydney 
 
-### Work Expirence 
+### Work Experience 
 ##### Postdoctoral Researcher (Sydney University, 2022-Current) <br>
 
 ##### Microscopy Data Specialist (Microscopy Australia, 2022) <br>
