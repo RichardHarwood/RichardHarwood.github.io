@@ -27,8 +27,9 @@ An awesome collaboration with Western Sydney University using whole tree chamber
 
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/pce.14079"> Understanding airspace in leaves: 3D anatomy and directional tortuosity </a> <br />
 <img  src="/img/PCE.png" width="200" style="display:block; margin-left:auto; margin-right:auto" />
-An awesome collaboration with Guillaume Théroux-Rancourt! Here we used carbon isotopes to estimate mesophyll conductance and SBF-SEM to capture cell and airspace properties of 4 different eucalyptus species. This paper was about quantifying the airspace and relating imaging to experimental data. We showed that when the airspace in leaves is heterogeneous previous assumptions fail.  
+An awesome collaboration with <a href="https://gtrancourt.gitlab.io/"> Guillaume Théroux-Rancourt </a>! Here we used carbon isotopes to estimate mesophyll conductance and SBF-SEM to capture cell and airspace properties of 4 different eucalyptus species. This paper was about quantifying the airspace and relating imaging to experimental data. We showed that when the airspace in leaves is heterogeneous previous assumptions fail.  
 <br clear="left"/>
+
 
 <br />
 <a href="https://academic.oup.com/aobpla/article/15/3/plad033/7190199"> Creating a virtual leaf</a> <br />
@@ -40,7 +41,7 @@ When I was wrapping up my thesis, I wrote a short discussion section called “C
 # Bioimage Analysis Papers 
 <a href="https://www.embopress.org/doi/full/10.15252/embj.2021109032"> The blood vasculature instructs lymphatic patterning in a SOX7-dependent manner </a> <br />
 <img  src="/img/smfish.PNG" width="200"  style="display:block; margin-left:auto; margin-right:auto" />
-In this project I developed a bespoke image analysis pipeline to analyze Vegfc transcript using single-molecule FISH in vivo.
+An awesome collaboration with <a href="https://www.centenary.org.au/people/mathias-francois/"> Mathias Francois </a> and his amazing team! In this project I developed a bespoke image analysis pipeline to analyze Vegfc transcript using single-molecule FISH in vivo.
 <br clear="left"/>
 
 # Scientific Outreach Papers 
