@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {file: "index.html", title: "Home Change"}
   #- {title: "About", file: "About.md"}
   - {title: "Publications", file: "Publications.md"}
+  - {title: "Posters", file: "posters.md"}
   - {title: "CV", file: "CV.md"}
 
 
