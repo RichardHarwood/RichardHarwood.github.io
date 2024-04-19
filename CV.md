@@ -3,7 +3,7 @@
 ##### Bachelor of Environmental Systems (Hons1) – University Of Sydney <br>
 ##### PhD – University Of Sydney 
 
-### Work Experience 
+### Work Experience: 
 ##### Postdoctoral Researcher (Sydney University, 2022-Current) <br>
 
 ##### Microscopy Data Specialist (Microscopy Australia, 2022) <br>
@@ -18,7 +18,7 @@
 #####  “Chloroplast volume is underestimated from two-dimensional cross sections” - Combio2018
 #####  “Incorporating 3D anatomy to better understand leaf function” – VIS2021
 
-### Outreach and Scientific Communication 
+### Outreach and Scientific Communication: 
 
 ##### Virtual reality microscopy station at the NSW school outreach program at the 19th International Microscopy Congress.
 ##### Virtual reality display at the Camden Show for visiting South West Sydney primary schools. 
