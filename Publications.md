@@ -44,6 +44,12 @@ When I was wrapping up my thesis, I wrote a short discussion section called “C
 An awesome collaboration with <a href="https://www.centenary.org.au/people/mathias-francois/"> Mathias Francois </a> and his amazing team! In this project I developed a bespoke image analysis pipeline to analyze Vegfc transcript using single-molecule FISH in vivo.
 <br clear="left"/>
 
+<br />
+<a href="https://link.springer.com/article/10.1007/s00125-024-06180-x"> Capillary contact points determine beta cell polarity, control secretion and are disrupted in the db/db mouse model of diabetes </a> <br />
+<img  src="/img/jevon_et_al.PNG" width="200"  style="display:block; margin-left:auto; margin-right:auto" />
+A really fun collaboration with <a href="http://www.thornlab.com/"> Peter Thorn </a> and his awesome lab! Here I helped develop a bespoke 3D image segmentation workflow and custom scripts to quantify the distance between cells and capillaries.  
+<br clear="left"/>
+
 # Scientific Outreach Papers 
 <a href="https://futurumcareers.com/3d-images-of-leaves-a-photo-shoot-we-should-all-be-looking-at"> 3D images of leaves: a photo shoot we should all be looking at </a> <br />
 <img  src="/img/3D-reconstruction-of-a-chickpea-stomata.jpg" width="200" style="display:block; margin-left:auto; margin-right:auto" />
