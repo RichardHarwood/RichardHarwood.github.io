@@ -12,7 +12,8 @@ Here I will expand on that list and briefly summarise my research:
 
 <a href="https://www.sciencedirect.com/science/article/pii/S1360138518302103"> Embracing 3D Complexity in Leaf Carbon–Water Exchange </a> <br />
 <img  src="/img/TIPS_JPG.jpg" width="200" style="display:block; margin-left:auto; margin-right:auto" />
-My first ever paper! In this opinion piece I contributed a 3D reconstruction of a wheat mesophyll cell and contributed to the discussion on considering 3D anatomy when trying to better understand mesophyll conductance.  
+My first ever paper! In this opinion piece I contributed a 3D reconstruction of a wheat mesophyll cell and contributed to the discussion on considering 3D anatomy when trying to better understand mesophyll conductance. 
+Led by my amazing PhD supervisor <a href="https://profiles.waikato.ac.nz/margaret.barbour"> Margaret Barbour </a> 
 <br clear="left"/>
 
 <a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16219"> Cell and chloroplast anatomical features are poorly estimated from 2D cross-sections </a> <br />
