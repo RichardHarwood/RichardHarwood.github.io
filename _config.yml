@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {title: "About", file: "About.md"}
   - {title: "Publications", file: "Publications.md"}
   - {title: "Posters", file: "posters.md"}
-  - {title: "CV", file: "CV.md"}
+  
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
