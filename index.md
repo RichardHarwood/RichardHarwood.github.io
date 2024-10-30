@@ -15,15 +15,5 @@ Here is an example of 3D imaging from my PhD. The image is a 3D reconstruction o
 Here is an example of 3D imaging from my current postdoc. The image is a 3D reconstruction of a wheat root in soil (root, grey; pore network adjacent to the root, blue). These images were acquired using micro-computed-tomography from my collaboration with the Australian Nuclear Science and Technology Organization  
 <br clear="right"/>
 <br />
-My research and professional experience have led to following skillsets: <br />
-* Data Science (Python and R) <br />
-* Bioimage analysis and visualization <br />
-* Computer vision
-* Stable isotopes and gas exchange <br />
-* 3D modelling techniques (e.g. finite element analysis) <br />
-* Virtual Reality Development  <br />
-* Scientific outreach  <br />
-* Teaching <br />
-<br />
 
 I can always be reached at richardwilliamharwood@gmail.com and welcome collaborations. 
