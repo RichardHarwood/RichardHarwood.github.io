@@ -58,6 +58,13 @@ An awesome collaboration with <a href="https://www.centenary.org.au/people/mathi
 A really fun collaboration with <a href="http://www.thornlab.com/"> Peter Thorn </a> and his awesome lab! Here I helped develop a bespoke 3D image segmentation workflow and custom scripts to quantify the distance between cells and capillaries.  
 <br clear="left"/>
 
+<br />
+<a href="https://www.biorxiv.org/content/10.1101/2024.10.29.620972v1"> Impaired maturation of wild-type superoxide dismutase 1 associated with neurodegeneration in Parkinson disease brain and a novel murine model </a> <br />
+<img  src="/img/sod1_eg.png" width="200"  style="display:block; margin-left:auto; margin-right:auto" />
+A really exciting project with <a href="https://prerender.sydney.edu.au/https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/kay-double.html"> Kay Double </a> led by <a href="https://scholar.google.com/citations?user=R99IlNkAAAAJ&hl=en/"> Amr  Abdeen</a>. Here I helped analyse confocal microscope images to capture SOD1 aggregate volume and its proportion inside and outside TH+ neuron cell bodies. Coupled with other experimental approaches the  study provides the first in vivo evidence that mismetallation and altered post-translational modifications drive the development of wild-type SOD1 misfolding, dysfunction and deposition, which has implications for better understanding Parkinson disease. 
+<br clear="left"/>
+
+
 # Scientific Outreach Papers 
 <a href="https://futurumcareers.com/3d-images-of-leaves-a-photo-shoot-we-should-all-be-looking-at"> 3D images of leaves: a photo shoot we should all be looking at </a> <br />
 <img  src="/img/3D-reconstruction-of-a-chickpea-stomata.jpg" width="200" style="display:block; margin-left:auto; margin-right:auto" />
