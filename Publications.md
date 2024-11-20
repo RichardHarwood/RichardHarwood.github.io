@@ -39,6 +39,13 @@ When I was wrapping up my thesis, I wrote a short discussion section called “C
 <br clear="left"/>
 <br />
 
+<br />
+<a href="https://academic.oup.com/treephys/article/44/11/tpae125/7811264"> Isotopic steady state or non-steady state transpiration? Insights from whole-tree chambers </a> <br />
+<img  src="/img/wtc_2.jpg" width="200" style="display:block; margin-left:auto; margin-right:auto" />
+Another great collaboration with Western Sydney University using whole tree chambers. This project investigated is trees transpire at isotopic steady state. Our observations showed that E. parramattensis trees are seldom transpiring at isotopic steady state over a diel period, but transpiration approaches source water isotopic composition over longer time periods.  In the paper we suggest applications where steady state can and cant be assumed. For this project I also made a <a href= "https://richard-harwood.shinyapps.io/Whole_Tree_18O_Transpiration/"> ShinyApp </a> so my collaborators could easily interact with the data.
+<br clear="left"/>
+<br />
+
 # Bioimage Analysis Papers 
 <a href="https://www.embopress.org/doi/full/10.15252/embj.2021109032"> The blood vasculature instructs lymphatic patterning in a SOX7-dependent manner </a> <br />
 <img  src="/img/smfish.PNG" width="200"  style="display:block; margin-left:auto; margin-right:auto" />
