@@ -67,7 +67,7 @@ A really exciting project with <a href="https://prerender.sydney.edu.au/https://
 # Scientific Outreach Papers 
 <a href="https://futurumcareers.com/3d-images-of-leaves-a-photo-shoot-we-should-all-be-looking-at"> 3D images of leaves: a photo shoot we should all be looking at </a> <br />
 <img  src="/img/3D-reconstruction-of-a-chickpea-stomata.jpg" width="200" style="display:block; margin-left:auto; margin-right:auto" />
-An outreach article with Margaret Barbour that uses our 3D imaging data to inspire students to get into plant science and combat “plant blindness”. For this article I created a 3D model of chickpea leaf that could be 3D printed!
+An outreach article with Margaret Barbour that uses our 3D imaging data to inspire students to get into plant science and combat “plant blindness”. For this article I created a 3D model of a chickpea leaf that could be 3D printed!
 <br clear="left"/>
 
 
